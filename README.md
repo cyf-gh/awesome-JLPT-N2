@@ -1,4 +1,4 @@
-# JLPT-N2 试卷分析与对策
+# awesome-JLPT-N2 N2 试卷分析与对策 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## 前言
 
